@@ -74,8 +74,10 @@ conteo = dg['CAUSA A RAIZ DE LA INCIDENCIA (CI)'].value_counts()
 
 dg.to_excel('datosfiltradosdelmes.xlsx', index=False)
 ```
-![Dashboard - Analisis de incidencias - hoja 1](<img width="1062" height="597" alt="image" src="https://github.com/user-attachments/assets/38f4e821-1936-42f0-9d15-b61e48ab6841" />
-)
+[<img width="1062" height="597" alt="image" src="https://github.com/user-attachments/assets/38f4e821-1936-42f0-9d15-b61e48ab6841" />](https://github.com/Kevincancino26/Control-de-calidad--filtrador-de-incidencia-/blob/main/hoja%202.jpg)
+
+
+
 
 
 
