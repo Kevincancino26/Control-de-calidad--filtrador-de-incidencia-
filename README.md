@@ -74,12 +74,13 @@ conteo = dg['CAUSA A RAIZ DE LA INCIDENCIA (CI)'].value_counts()
 
 dg.to_excel('datosfiltradosdelmes.xlsx', index=False)
 ```
-[<img width="1062" height="597" alt="image" src="https://github.com/user-attachments/assets/38f4e821-1936-42f0-9d15-b61e48ab6841" />](https://github.com/Kevincancino26/Control-de-calidad--filtrador-de-incidencia-/blob/main/hoja%202.jpg)
+## 📷 Dashboar de Seguimiento de Incidencias  
 
+### Vista previa de la hoja 1
+![Hoja 1](https://raw.githubusercontent.com/Kevincancino26/Control-de-calidad--filtrador-de-incidencia-/main/hoja%201.jpg)
 
-
-
-
+### Vista previa de la hoja 2
+![Hoja 2](https://raw.githubusercontent.com/Kevincancino26/Control-de-calidad--filtrador-de-incidencia-/main/hoja%202.jpg)
 
 
 ---
@@ -92,3 +93,10 @@ dg.to_excel('datosfiltradosdelmes.xlsx', index=False)
 - **Optimización de recursos en función de tendencias**
 
 ---
+## 📝 Notas Adicionales
+
+- **Adaptar el nombre de la hoja según el periodo: '2025 Junio ' → '2025 Julio '**
+
+- **El dashboard de Power BI se actualiza automáticamente al agregar nuevos datos**
+
+- **El proyecto puede ampliarse para incluir análisis predictivo de incidencias**
