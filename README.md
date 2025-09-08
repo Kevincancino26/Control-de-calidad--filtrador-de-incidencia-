@@ -100,3 +100,15 @@ dg.to_excel('datosfiltradosdelmes.xlsx', index=False)
 - **El dashboard de Power BI se actualiza automáticamente al agregar nuevos datos**
 
 - **El proyecto puede ampliarse para incluir análisis predictivo de incidencias**
+
+---
+
+## 👨‍💻 Desarrollado por Kevin Gutierrez Cancino
+- Correo: [kevincancino15@gmail.com](kevincancino15@gmail.com)
+- Numero.Cel: +52 2291407161
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kevin-gutierrez-cancino-8583bb208/)
+
+
+
+
