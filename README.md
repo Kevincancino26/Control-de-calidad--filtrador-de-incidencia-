@@ -81,6 +81,7 @@ dg.to_excel('datosfiltradosdelmes.xlsx', index=False)
 
 
 
+
 ---
 
 ## 📈 Aplicaciones del Análisis
